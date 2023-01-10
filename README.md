@@ -15,9 +15,9 @@
 - 😄 Pronouns: He/Him
 
 <a href="https://www.twitter.com/piyushkumarreal" target="_blank"><img
-src="https://img.shields.io/twitter/follow/piyushkumarg?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/piyushkumarreal?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/piyushkumarg" target="_blank"><img
-src="https://img.shields.io/github/followers/piyushkumarreal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/piyushkumarg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 <h3 align="left">Connect with me:</h3>
