@@ -84,8 +84,6 @@ src="https://img.shields.io/github/followers/piyushkumarg?logo=github&style=for-
 
 ## Github Activity📊:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkumarg&show_icons=true&locale=en&layout=compact" alt="piyushkumarg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushkumarg&show_icons=true&locale=en" alt="piyushkumarg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumarg&" alt="piyushkumarg" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumarg&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=piyushkumarg&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=piyushkumarg&theme=blue-green&hide_border=false)<br/>
